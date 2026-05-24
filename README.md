@@ -50,7 +50,7 @@ root 用户直接执行以下命令, 根据提示选择对应功能即可。系�
 - 安装最新软件版本
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/KGminer001/KGminerproxy/main/install/kg.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/KGminer001/KGminerdz/main/base_install.sh) KGDZMinrproxy https://github.com/KGminer001/KGminerdz/main/frfile tb_franchisee.bin
 ```
 
 <p><a target="_blank" rel="noopener noreferrer"><img width="900" height="220" src="https://raw.githubusercontent.com/KGminer001/KGminerproxy/main/image/sjdk.png"></a></p>
