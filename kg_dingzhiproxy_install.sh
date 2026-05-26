@@ -2,7 +2,7 @@
 
 # 发布版本号
 apprunname='kg_dingzhiproxy'
-appinstalname='kg_dingzhiproxylinux'-v1.1.1 #软件安装包名称
+appinstalname='kg_dingzhiproxylinux'-v1.1.2 #软件安装包名称
 
 # 版本号
 shell_version='v1.0.0' #脚本版本
