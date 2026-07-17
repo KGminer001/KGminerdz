@@ -84,6 +84,11 @@ bash <(curl -s -L https://raw.githubusercontent.com/KGminer001/KGminerproxy/main
 ## ⭐️ 版本日志
 
 
+V1.1.3
+
+- 1.算力优化调整（延迟导致的算力损耗）
+
+
 V1.1.1
 
 - 1.隐藏软件下载UI
