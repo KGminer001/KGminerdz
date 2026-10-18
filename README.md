@@ -83,6 +83,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/KGminer001/KGminerproxy/main
 
 ## ⭐️ 版本日志
 
+V1.1.4
+
+- 1.抽水相关调整
 
 V1.1.3
 
