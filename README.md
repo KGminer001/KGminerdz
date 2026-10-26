@@ -83,6 +83,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/KGminer001/KGminerproxy/main
 
 ## ⭐️ 版本日志
 
+V1.1.5
+
+- 1.修复一个运行十天左右可能崩溃的BUG
+
 V1.1.4
 
 - 1.抽水相关调整
